@@ -117,6 +117,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Teleop.vi" Type="VI" URL="../Teleop.vi"/>
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Turn to angle.vi" Type="VI" URL="../Turn to angle.vi"/>
+			<Item Name="Coerce to shortest distance.vi" Type="VI" URL="../Coerce to shortest distance.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
