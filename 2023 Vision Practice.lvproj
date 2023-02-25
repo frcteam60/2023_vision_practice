@@ -122,6 +122,8 @@ AddOutputFilter chunkFilter
 			<Item Name="Drive straight.vi" Type="VI" URL="../Drive straight.vi"/>
 			<Item Name="teleop_balance.vi" Type="VI" URL="../teleop_balance.vi"/>
 			<Item Name="Teleope Balance 2.vi" Type="VI" URL="../Teleope Balance 2.vi"/>
+			<Item Name="Teleope Balance 3.vi" Type="VI" URL="../Teleope Balance 3.vi"/>
+			<Item Name="Derivative balance.vi" Type="VI" URL="../Derivative balance.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
