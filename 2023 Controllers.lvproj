@@ -113,8 +113,8 @@ AddOutputFilter chunkFilter
 			<Item Name="Turn to angle.vi" Type="VI" URL="../Turn to angle.vi"/>
 			<Item Name="Coerce to shortest distance.vi" Type="VI" URL="../Coerce to shortest distance.vi"/>
 			<Item Name="Turn 2.vi" Type="VI" URL="../Turn 2.vi"/>
-			<Item Name="Balance.vi" Type="VI" URL="../Balance.vi"/>
 			<Item Name="Drive straight.vi" Type="VI" URL="../Drive straight.vi"/>
+			<Item Name="Balance.vi" Type="VI" URL="../Balance.vi"/>
 			<Item Name="Teleope Balance 2.vi" Type="VI" URL="../Teleope Balance 2.vi"/>
 			<Item Name="teleop_balance.vi" Type="VI" URL="../teleop_balance.vi"/>
 			<Item Name="Teleope Balance 3.vi" Type="VI" URL="../Teleope Balance 3.vi"/>
@@ -735,6 +735,9 @@ AddOutputFilter chunkFilter
 				<Item Name="NT_LL_Write Float Array.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/NT_LL_Write Float Array.vi"/>
 				<Item Name="NT Write Integer Array.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/NT Write Integer Array.vi"/>
 				<Item Name="NT_LL_Write IntegerArray.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/NT_LL_Write IntegerArray.vi"/>
+				<Item Name="WPI_SolenoidGetBool.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/Deprecated/WPI_SolenoidGetBool.vi"/>
+				<Item Name="WPI_SolenoidGetEnum.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidGetEnum.vi"/>
+				<Item Name="WPI_SolenoidGet.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidGet.vi"/>
 			</Item>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -772,7 +775,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">21</Property>
+				<Property Name="Bld_version.build" Type="Int">27</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
